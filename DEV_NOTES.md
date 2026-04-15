@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-08
 - Added CONTRIBUTING.md stub
+
+## 2026-04-15
+- Reorganised test fixtures
+- Consolidated duplicate helper functions
